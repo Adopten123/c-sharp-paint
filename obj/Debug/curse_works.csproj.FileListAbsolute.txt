@@ -1,0 +1,10 @@
+C:\Users\sanha\source\repos\OOP\curse_works\bin\Debug\curse_works.exe.config
+C:\Users\sanha\source\repos\OOP\curse_works\bin\Debug\curse_works.exe
+C:\Users\sanha\source\repos\OOP\curse_works\bin\Debug\curse_works.pdb
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.csproj.AssemblyReference.cache
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.Form1.resources
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.Properties.Resources.resources
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.csproj.GenerateResource.cache
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.csproj.CoreCompileInputs.cache
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.exe
+C:\Users\sanha\source\repos\OOP\curse_works\obj\Debug\curse_works.pdb
